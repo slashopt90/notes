@@ -4,7 +4,7 @@
 - [ ] test it
 
 ## Plugins in general
-- [ ] check loading and switching sfc
+- [x] check loading and switching sfc
 - [ ] do the translations in italian
 
 ## Data collection plugin
@@ -27,8 +27,17 @@
 
 ## Workinstruction plugin
 - [ ] Develop the backend
+- [ ] Change the plugin to use the backend
 
 
 ## EVO
 - [ ] create and valorize custom data NOT_QUALITY_RELEVANT
+
+## Timbrature
+- [ ] implement all the things
+
+
+# Bugs
+## Data collection plugin
+- [ ] Selecting the same data collection generates multiple input boxes
 
