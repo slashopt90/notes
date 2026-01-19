@@ -45,15 +45,15 @@
 - [ ] Verificare SFC Complete DM bug
 
 ## Data collection
-- [ ] Mostrare in chiaro il plant
-- [ ] Ricerca per descrizione
-- [ ] Ricerca per materiale / workcenter, verificare se più di 100 piani.
+- [x] Mostrare in chiaro il plant
+- [x] Ricerca per descrizione
+- [x] Ricerca per materiale / workcenter, verificare se più di 100 piani.
 - [ ] Ricerca per materiale, verifica like
-- [ ] Materiali, rimuovere 0 davanti
+- [x] Materiali, rimuovere 0 davanti
 - [ ] Gestione ruoli per plant, lettura e scrittura
 - [ ] Cambio di versione, gestione corretta parametri
 - [ ] Dare la possibilità di gestire l' import da csv
-- [ ] Abilitare / Disabilitare paramatri
+- [x] Abilitare / Disabilitare paramatri
 - [ ] Aggiungere descrizione nei related group di un parametro
 - [ ] verificare la validità dei materiali
 - [ ] Controllare se si può mettere una tile ad un link esterno
