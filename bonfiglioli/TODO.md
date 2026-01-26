@@ -59,3 +59,22 @@
 - [ ] Controllare se si può mettere una tile ad un link esterno
 - [ ] abilitare le notifiche della qualità per EVO
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@@Bugs
+chiudere labor setup quando parte la lavorazione
+chiudere indirect labor PREPARATION quando machine preparation is required è false
+chiudere indirect labor TESTING quando test facoltativo e test OK
